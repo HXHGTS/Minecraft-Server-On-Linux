@@ -7,3 +7,4 @@ axel https://launcher.mojang.com/v1/objects/bb2b6b1aefcd70dfd1892149ac3a215f6c63
 
 java -Xmx1024M -Xms1024M -jar server.jar nogui
 
+服务器文件国内下载地址：https://www.lanzous.com/i9q7a8f
